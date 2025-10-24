@@ -32,6 +32,7 @@ app.use(cors({
       'https://localhost:5175',
       'https://localhost:5176',
       'https://localhost:5177',
+      'https://frontendseclob-1.onrender.com'
      
     ];
     
